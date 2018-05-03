@@ -1,0 +1,267 @@
+{
+    "Opening box office in USA": 3500000.0,
+    "box office in USA": 9307626.0,
+    "cast": [
+        "Helen Mirren",
+        "Sarah Snook",
+        "Finn Scicluna-O'Prey",
+        "Jason Clarke",
+        "Emm Wiseman",
+        "Alana Fagan",
+        "Rebecca Makar",
+        "Tyler Coppin",
+        "Michael Carman",
+        "Angus Sampson",
+        "Alice Chaston",
+        "Eamon Farren",
+        "Laura Brent",
+        "Adam Bowes",
+        "Bruce Spence",
+        "Phoenix Suhrou-Dimarco",
+        "Jayden Irving",
+        "Rosco Campbell",
+        "Puven Pather",
+        "Tom Heath",
+        "Curtis Bock",
+        "Andy de Lore",
+        "Graham Jahne",
+        "Hayden Stewart",
+        "Chris Anderson",
+        "Laura Sutton",
+        "Robert Shook",
+        "Richard Anastasios",
+        "Will Jones",
+        "Luke Maizey",
+        "James Baldwin",
+        "Neil Solomano",
+        "Amos Ciza",
+        "Red Horse Rivera",
+        "Timothy Brown",
+        "Kym Lannin",
+        "Christian Rhodes-Wolfe",
+        "Albert Trajstman",
+        "Xavier Gouault",
+        "Gawi Deng",
+        "Ryuhei Tsukamoto",
+        "Shane Holloway",
+        "Michael Boyd",
+        "Elisa Abascal",
+        "Akosia Sabet",
+        "Stephanie Beall",
+        "Clancy Fraser",
+        "Chris Homa",
+        "Rose Juan",
+        "Douglas Embry",
+        "Jeffrey W. Jenkins",
+        "Dawayne Jordan",
+        "Jeff Lipary",
+        "John Lobato",
+        "Homero Lopez",
+        "Marcus Orelias",
+        "A. Marshal Ward"
+    ],
+    "country": "Australia",
+    "description": "Ensconced in her sprawling California mansion, eccentric firearm heiress Sarah Winchester believes she is haunted by the souls of people killed by the Winchester repeating rifle.",
+    "director": "Michael Spierig",
+    "distributor": [
+        "BF Distribution",
+        "CBS Films",
+        "Coraz\u00f3n Films",
+        "Digi-Optic Films",
+        "Dutch FilmWorks (DFW)",
+        "Odeon",
+        "Pony Canyon",
+        "Regents",
+        "Sabay MVP",
+        "Shaw Organisation",
+        "Splendid Film",
+        "StudioCanal",
+        "StudioCanal",
+        "Vertigo M\u00e9dia Kft.",
+        "V\u00e9rtice 360",
+        "Ascot Elite Entertainment Group",
+        "NOS Audiovisuais",
+        "Noori Pictures",
+        "VVS Films"
+    ],
+    "duration": "1h 39min",
+    "film name": "Winchester",
+    "filming location": [
+        "Melbourne",
+        "Victoria",
+        "Australia"
+    ],
+    "genre": [],
+    "language": "English",
+    "producer": [
+        "Tobin Armbrust",
+        "Michael Burton",
+        "Benedict Carver",
+        "Yvonne Collins",
+        "Daniel Diamond",
+        "Brian J. Gilbert",
+        "Antonia Lianos",
+        "Tim McGahan",
+        "Bryce Menzies",
+        "Simon Oakes",
+        "Marc Schipper",
+        "Brett Tomberlin",
+        "Andrew Trapani"
+    ],
+    "production company": [
+        "Blacklab Entertainment",
+        "Imagination Design Works"
+    ],
+    "release": [
+        {
+            "date": "31 January 2018",
+            "location": "Philippines"
+        },
+        {
+            "date": "2 February 2018",
+            "location": "Canada"
+        },
+        {
+            "date": "2 February 2018",
+            "location": "UK"
+        },
+        {
+            "date": "2 February 2018",
+            "location": "Ireland"
+        },
+        {
+            "date": "2 February 2018",
+            "location": "Sweden"
+        },
+        {
+            "date": "2 February 2018",
+            "location": "Taiwan"
+        },
+        {
+            "date": "2 February 2018",
+            "location": "USA"
+        },
+        {
+            "date": "4 February 2018",
+            "location": "France"
+        },
+        {
+            "date": "8 February 2018",
+            "location": "Cambodia"
+        },
+        {
+            "date": "8 February 2018",
+            "location": "Kuwait"
+        },
+        {
+            "date": "8 February 2018",
+            "location": "Netherlands"
+        },
+        {
+            "date": "8 February 2018",
+            "location": "Peru"
+        },
+        {
+            "date": "8 February 2018",
+            "location": "Singapore"
+        },
+        {
+            "date": "9 February 2018",
+            "location": "Poland"
+        },
+        {
+            "date": "15 February 2018",
+            "location": "Greece"
+        },
+        {
+            "date": "16 February 2018",
+            "location": "Romania"
+        },
+        {
+            "date": "22 February 2018",
+            "location": "Australia"
+        },
+        {
+            "date": "22 February 2018",
+            "location": "Italy"
+        },
+        {
+            "date": "22 February 2018",
+            "location": "New Zealand"
+        },
+        {
+            "date": "22 February 2018",
+            "location": "Thailand"
+        },
+        {
+            "date": "22 February 2018",
+            "location": "Uruguay"
+        },
+        {
+            "date": "23 February 2018",
+            "location": "Norway"
+        },
+        {
+            "date": "1 March 2018",
+            "location": "Argentina"
+        },
+        {
+            "date": "1 March 2018",
+            "location": "Brazil"
+        },
+        {
+            "date": "1 March 2018",
+            "location": "Czech Republic"
+        },
+        {
+            "date": "8 March 2018",
+            "location": "Croatia"
+        },
+        {
+            "date": "9 March 2018",
+            "location": "Spain"
+        },
+        {
+            "date": "9 March 2018",
+            "location": "Mexico"
+        },
+        {
+            "date": "9 March 2018",
+            "location": "Vietnam"
+        },
+        {
+            "date": "13 March 2018",
+            "location": "Indonesia"
+        },
+        {
+            "date": "15 March 2018",
+            "location": "Germany"
+        },
+        {
+            "date": "15 March 2018",
+            "location": "Hungary"
+        },
+        {
+            "date": "5 April 2018",
+            "location": "Russia"
+        },
+        {
+            "date": "12 April 2018",
+            "location": "Portugal"
+        },
+        {
+            "date": "27 April 2018",
+            "location": "Lithuania"
+        },
+        {
+            "date": "29 June 2018",
+            "location": "Japan"
+        }
+    ],
+    "writing credit": [
+        "Tom Vaughan",
+        "Michael Spierig",
+        "Peter Spierig"
+    ],
+    "year": 2018
+}

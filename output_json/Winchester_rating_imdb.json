@@ -1,0 +1,131 @@
+{
+    "film name": "Winchester",
+    "mean": 2.8,
+    "median": 3.0,
+    "overall rating": 2.7,
+    "rating": [
+        {
+            "name": "Star 1",
+            "quantity": 399.0
+        },
+        {
+            "name": "Star 2",
+            "quantity": 828.5
+        },
+        {
+            "name": "Star 3",
+            "quantity": 2066.0
+        },
+        {
+            "name": "Star 4",
+            "quantity": 1102.5
+        },
+        {
+            "name": "Star 5",
+            "quantity": 387.0
+        }
+    ],
+    "rating_all": [
+        {
+            "age": "all ages",
+            "avg_rating": 5.4,
+            "quantity": 9566
+        },
+        {
+            "age": "<18",
+            "avg_rating": 5.2,
+            "quantity": 49
+        },
+        {
+            "age": "18-29",
+            "avg_rating": 5.3,
+            "quantity": 2511
+        },
+        {
+            "age": "30-44",
+            "avg_rating": 5.3,
+            "quantity": 3108
+        },
+        {
+            "age": "45+",
+            "avg_rating": 5.6,
+            "quantity": 1021
+        }
+    ],
+    "rating_female": [
+        {
+            "age": "all ages",
+            "avg_rating": 5.8,
+            "quantity": 1840
+        },
+        {
+            "age": "<18",
+            "avg_rating": 2.8,
+            "quantity": 10
+        },
+        {
+            "age": "18-29",
+            "avg_rating": 5.6,
+            "quantity": 736
+        },
+        {
+            "age": "30-44",
+            "avg_rating": 5.7,
+            "quantity": 692
+        },
+        {
+            "age": "45+",
+            "avg_rating": 6.2,
+            "quantity": 230
+        }
+    ],
+    "rating_male": [
+        {
+            "age": "all ages",
+            "avg_rating": 5.2,
+            "quantity": 5416
+        },
+        {
+            "age": "<18",
+            "avg_rating": 5.6,
+            "quantity": 39
+        },
+        {
+            "age": "18-29",
+            "avg_rating": 5.1,
+            "quantity": 1749
+        },
+        {
+            "age": "30-44",
+            "avg_rating": 5.2,
+            "quantity": 2377
+        },
+        {
+            "age": "45+",
+            "avg_rating": 5.5,
+            "quantity": 768
+        }
+    ],
+    "rating_special": [
+        {
+            "avg_rating": 5.2,
+            "quantity": 4,
+            "text": "imdb staff"
+        },
+        {
+            "avg_rating": 4.6,
+            "quantity": 105,
+            "text": "top 1000 voters"
+        },
+        {
+            "avg_rating": 5.3,
+            "quantity": 1700,
+            "text": "US users"
+        },
+        {
+            "avg_rating": 5.3,
+            "quantity": 3637,
+            "text": "non-US users"
+        }
+    ]
+}
